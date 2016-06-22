@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F142B991-EA2D-9DA7-DF22-16743BBC729F}") = "10_Unity_ColorSlider", "Assembly-CSharp.csproj", "{DFA78189-D482-F906-3409-827FB0D28108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA78189-D482-F906-3409-827FB0D28108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA78189-D482-F906-3409-827FB0D28108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA78189-D482-F906-3409-827FB0D28108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA78189-D482-F906-3409-827FB0D28108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
